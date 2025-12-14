@@ -16,9 +16,7 @@ loan-approval-ml-project/
 │
 ├── report/
 │ └── Final_Report.pdf
-│
-└── images/
-└── tableau_preview.png
+
 
 ---
 ## 📂 Code
